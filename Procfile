@@ -1,0 +1,1 @@
+worker: python sql_stream_generator.py
